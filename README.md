@@ -17,6 +17,20 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## My process
 
+
+### Built with
+
+- HTML
+- CSS
+- Google fonts
+
+##Features
+
+-Responsive design that adapts to different screen sizes and devices.
+-Eye-catching QR code image to attract user attention.
+-Engaging description to promote skill improvement and participation in coding projects.
+
+
 ### What I learned
 
 This project was a great opportunity for me to recall and reinforce my knowledge of HTML and CSS. Here are some key takeaways:

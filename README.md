@@ -6,7 +6,9 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![Screenshot of the QR code component solution] (./desktop-design)
+![Screenshot of the QR code component solution](./screenshot.png)
+
+
 
 ### Links
 
